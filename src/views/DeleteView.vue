@@ -66,7 +66,7 @@
     import AuthService from '@/services/AuthService'
     import router from '@/router'
 
-    const API_URL = 'http://localhost:3000'
+    const API_URL = 'https://mevn-backend-kmcf.onrender.com'
 
     export default {
         setup() {
