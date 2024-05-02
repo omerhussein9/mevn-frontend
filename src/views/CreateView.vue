@@ -76,7 +76,7 @@
 
 
                     alert('Event successfully created.')
-                    location.reload()
+                    // location.reload()
                 } catch(e) {
                     console.error('error with creating event', e)
                 }
@@ -100,7 +100,7 @@
                     }
 
                     alert('Team created successfully.')
-                    location.reload()
+                    // location.reload()
                 } catch (ex) {
                     console.error('error with creating team', ex)
                 }

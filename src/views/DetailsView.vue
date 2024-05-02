@@ -202,7 +202,7 @@ export default {
                 })
 
                 alert('Successfully edited the event.')
-                location.reload()
+                // location.reload()
             } catch(ex) {
                 console.error('error with patching event', ex)
             }
